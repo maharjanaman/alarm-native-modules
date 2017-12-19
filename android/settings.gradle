@@ -1,0 +1,3 @@
+rootProject.name = 'TestNativeModule'
+
+include ':app'
